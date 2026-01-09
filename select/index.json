@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Gwiyomi song",
+  "base_artist": "하리",
+  "createdAt": "2026-01-09T16:49:22.176354Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gwiyomi song",
+      "artist": "HARI",
+      "has_synced": true,
+      "path": "select/01_Gwiyomi_song_HARI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gwiyomi song - Instrumental",
+      "artist": "HARI",
+      "has_synced": true,
+      "path": "select/02_Gwiyomi_song_-_Instrumental_HARI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gwiyomi song 2",
+      "artist": "HARI",
+      "has_synced": false,
+      "path": "select/03_Gwiyomi_song_2_HARI.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "1+1 =Gwiyomi (Gwiyomi song) - Instrumental",
+      "artist": "하리",
+      "has_synced": true,
+      "path": "select/04_1+1_=Gwiyomi_(Gwiyomi_song)_-_Instrumental_하리.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "1+1 =Gwiyomi (Gwiyomi song) - Instrumental",
+      "artist": "Hari",
+      "has_synced": true,
+      "path": "select/05_1+1_=Gwiyomi_(Gwiyomi_song)_-_Instrumental_Hari.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gwiyomi Song",
+      "artist": "Hari",
+      "has_synced": false,
+      "path": "select/pl_01_Gwiyomi_Song_Hari.txt"
+    }
+  ]
+}
